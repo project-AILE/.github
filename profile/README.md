@@ -6,3 +6,5 @@ The integration of AI into the legal profession has the potential to redefine th
     <img height=100px src="img/EU-NextGenEU_POS.jpg">
     <img height=115px src="img/POO_logo_angl.png">
 </p>
+
+© Copyright by AILE - All Rights Reserved.
